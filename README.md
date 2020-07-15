@@ -3,11 +3,11 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/2595620/chimunthu)](https://stackoverflow.com/users/2595620/chimunthu)
 [![Gmail Badge](https://img.shields.io/badge/-chimunthu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chimunthu@gmail.com)](mailto:chimunthu@gmail.com)
 ## Hi 👋, 
-I'm Ebel Diogo Chimunhu, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
+I'm Ebel Diogo Chimunhu, I'm a Full Stack developer 👨‍💻 who is passionate about web technologies and its entire ecosystem. 
 
-- 🔭 I’m currently working on JavaScript and PHP apps/systems, focus on Mobile ecosistems
+- 🔭 I’m currently working on JavaScript and PHP apps/systems, focus on Mobile ecosystem
 - 🌱 I’m currently learning IA,IONIC,DevOps and of course JS improvments
 - 💬 Ask me about: tech, God and a little bit about investments.
--  ⚡ Technologies: React, Node, Angular, Ionic
+-  ⚡ Technologies: Laravel, Microsoft Teams and DevOps, Apache, Wordpress, PHP, Angular, Ionic, Node,
 
-"Do not expect from others what you expect of yourself." 
+"The true measure of leadership is not how much you achieve; it is how much you inspire others to achieve."
