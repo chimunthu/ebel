@@ -8,6 +8,6 @@ I'm Ebel Diogo Chimunhu, I'm a Full Stack developer 👨‍💻 who is passionat
 - 🔭 I’m currently working on JavaScript and PHP apps/systems, focus on Mobile ecosystem
 - 🌱 I’m currently learning IA,IONIC,DevOps and of course JS improvments
 - 💬 Ask me about: tech, God and a little bit about investments.
--  ⚡ Technologies: Laravel, Microsoft Teams and DevOps, Apache, Wordpress, PHP, Angular, Ionic, Node,
+-  ⚡ Technologies: Laravel, Microsoft Teams, DevOps, Apache, Wordpress, PHP, Angular, Ionic, Node,
 
 "The true measure of leadership is not how much you achieve; it is how much you inspire others to achieve."
